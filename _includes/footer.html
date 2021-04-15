@@ -1,0 +1,34 @@
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading"></h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">
+            {%- if site.author -%}
+              {{ site.author | escape }}
+            {%- else -%}
+              {{ site.title | escape }}
+            {%- endif -%}         
+            </li>
+            <li class="social-media-list">
+            <a href="https://trailblazer.me/id/ruyili"><img class="png-icon" src= "/assets/salesforce.png"></a>            
+            <a href="https://www.github.com/Ruyi95"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg></a>
+            <a href="https://www.linkedin.com/in/ruyi-li-634075110"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#linkedin' | relative_url }}"></use></svg></a>
+            <a href="mailto:{{ site.email }}"><img class="svg-icon" src= "/assets/mail.png"></a>
+            </li>
+         </ul>
+      </div>
+
+     <div class="footer-col footer-col-2">
+        <p>{{- site.description | escape -}}</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
