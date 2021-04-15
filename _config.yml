@@ -22,7 +22,7 @@ title: Ruyi Li
 author: Ruyi Li
 email: ruyiliwl@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  HPC reference resources and professional development notes. Projects to be added.   
+  Projects to be added.   
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://Ruyi95.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: ruyi-li-634075110
