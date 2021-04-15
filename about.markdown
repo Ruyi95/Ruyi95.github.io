@@ -28,4 +28,4 @@ Hi, my name is Ruyi Li. I'm passionate in computing technology. I like to help o
 </ul>
 
 <h4>Interests</h4>
-<ul>Baking, Biking, Zumba, Educational Videos, House Maintenance</ul>
+<ul>Zumba</ul>
