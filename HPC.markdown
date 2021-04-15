@@ -9,13 +9,13 @@ title: HPC
 <a href="https://access.redhat.com/articles/1189123" target="_blank">Common Administrative Commands in Red Hat Enterprise Linux 5,6,7, and 8</a>
 </li>
 <li>
-<a href="https://access.redhat.com/documentation/en-us/red-hat-enterprise_linux/7/html/system_administrator_guide/index" target="_blank">Red Hat Enterprise 7 Linux System Administrator's Guide</a>
+<a href="https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/pdf/system_administrators_guide/Red_Hat_Enterprise_Linux-7-System_Administrators_Guide-en-US.pdf" target="_blank">Red Hat Enterprise 7 Linux System Administrator's Guide</a>
 </li>
 <li>
-<a href="https:/wiki.centos.org/FrontPage" target="_blank">CentOS Wiki</a>
+<a href="https://wiki.centos.org/FrontPage" target="_blank">CentOS Wiki</a>
 </li>
 <li>
-Purdue ITaP <a href="https://www.rcac.purdue.edu/training/unix101/" target="_blank">Unix 101</a>, <a href="https://www.rcac.purdue.edu/training/unix102/" target="_blank">Unix 102</a>, <a href="https://www.rcac.purdue.edu/training/unix101/unix101_booklet.pdf" target="_blank">Unix 101 booklet</a>
+Purdue ITaP <a href="https://www.rcac.purdue.edu/training/unix101/" target="_blank">Unix 101</a>, <a href="https://www.rcac.purdue.edu/training/unix201/" target="_blank">Unix 201</a>, <a href="https://www.rcac.purdue.edu/training/unix101/unix101_booklet.pdf" target="_blank">Unix 101 booklet</a>
 </li>
 <li>
 <a href="https://swcarpentry.github.io/shell-novice/" target="_blank">Swcarpentry The Unix Shell</a>
@@ -30,14 +30,14 @@ Purdue ITaP <a href="https://www.rcac.purdue.edu/training/unix101/" target="_bla
 
 <h4>Open MPI</h4>
 <ul>
-<li><a href="https://www/open-mpi.org" target="_blank">Open Source High Performance Computing</a>
+<li><a href="https://www.open-mpi.org" target="_blank">Open Source High Performance Computing</a>
 </li>
 </ul>
 
 <h4>Slurm</h4>
 <ul>
 <li>
-<a href="https:slurm.schedmd.com/documentation.html" target="_blank">Slurm Documentation</a>
+<a href="https://slurm.schedmd.com/documentation.html" target="_blank">Slurm Documentation</a>
 </li>
 <li>
 <a href="https://slurm.schedmd.com/tutorials.html" target="_blank">Slurm Tutorials</a>
