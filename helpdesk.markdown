@@ -1,6 +1,6 @@
 ---
 layout: helpdesk
-title: HelpDesk
+title: Help Desk
 ---
 <h4>User Guides</h4>
 <div>

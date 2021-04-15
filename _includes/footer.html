@@ -2,17 +2,15 @@
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
 
   <div class="wrapper">
-
-    <h2 class="footer-heading"></h2>
-
+<!--    <h2 class="footer-heading"></h2> -->
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
           <li class="p-name">
             {%- if site.author -%}
-              {{ site.author | escape }}
+            © {{ site.author | escape }}, 2021
             {%- else -%}
-              {{ site.title | escape }}
+            © {{ site.title | escape }}, 2021
             {%- endif -%}         
             </li>
             <li class="social-media-list">

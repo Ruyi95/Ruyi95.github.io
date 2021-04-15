@@ -28,6 +28,12 @@ url: "https://Ruyi95.github.io" # the base hostname & protocol for your site, e.
 linkedin_username: ruyi-li-634075110
 github_username:  Ruyi95
 
+header_pages:
+- about.markdown
+- HPC.markdown
+- helpdesk.markdown
+- blog.markdown
+
 # Build settings
 theme: minima
 plugins:
