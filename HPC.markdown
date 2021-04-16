@@ -1,6 +1,7 @@
 ---
 layout: HPC
 title: HPC
+permalink: /HPC/
 ---
 
 <h4>Linux</h4>
@@ -43,9 +44,9 @@ Purdue ITaP <a href="https://www.rcac.purdue.edu/training/unix101/" target="_bla
 </li>
 </ul>
 
-<h4>Open MPI</h4>
+<h4>MPI</h4>
 <ul>
-<li><a href="https://www.open-mpi.org" target="_blank">Open Source High Performance Computing</a>
+<li><a href="https://www.open-mpi.org" target="_blank">Open MPI</a>
 </li>
 </ul>
 

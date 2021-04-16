@@ -1,6 +1,7 @@
 ---
 layout: helpdesk
 title: Help Desk
+permalink: /helpdesk/
 ---
 <h4>User Guides</h4>
 <div>
