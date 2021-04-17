@@ -32,7 +32,12 @@ header_pages:
 - about.markdown
 - HPC.markdown
 - helpdesk.markdown
+- projects.md
 - blog.markdown
+
+collections:
+  projects:
+    output: true
 
 # Build settings
 theme: minima
