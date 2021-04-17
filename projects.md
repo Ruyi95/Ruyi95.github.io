@@ -9,6 +9,6 @@ permalink: /projects/
 #### {{ project.starttime }} {% if project.endtime %} - {{ project.endtime }}{% endif%} ####
 
 <p> {{ project.excerpt }}</p>
-
+<br/>
 {% endfor %}
 

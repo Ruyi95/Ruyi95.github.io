@@ -15,23 +15,31 @@ permalink: /HPC/
 <a href="https://gnu.org/software/emacs/manual/html_node/emacs/index.html" target="_blank">Emacs</a>,
 <a href="https://www.utf8-chartable.de" target="_blank">UTF-8 Encoding Table and Unicode Characters</a>
 
+
 #### Research Computing Clusters ####
 - <a href="https://www.rcac.purdue.edu/training/clusters101/" target="_blank">Purdue Clusters 101</a>
 
+
 #### MPI ####
 - <a href="https://www.open-mpi.org" target="_blank">Open MPI</a>
+
 
 #### Slurm ####
 - <a href="https://slurm.schedmd.com/documentation.html" target="_blank">Slurm Documentation</a>
 - <a href="https://slurm.schedmd.com/tutorials.html" target="_blank">Slurm Tutorials</a>
 - <a href="https://www.rcac.purdue.edu/knowledge/anvil/run" target="_blank">Running Jobs</a>
 
-#### Data Management ###
 
+#### Data Management ###
+- <a href="https://www.ddn.com" target="_blank">DataDirect Networks (DDN®) Storage</a>
+- <a href="https://www.lustre.org" target="_blank">lustre</a>
+- <a href="https://www.ibm.com/products/spectrum-scale" target="_blank">IBM Spectrum Scale (GPFS)</a>
 - <a href="https://www.rcac.purdue.edu/training/globus/" target="_blank">Globus Overview</a>
+
 
 #### Gateway ####
 - <a href="https://openondemand.org" target="_blank">Open OnDemand</a>
+
 
 #### Git ####
 - <a href="https://git-scm.com/doc" target="_blank">Git Documentation</a>
