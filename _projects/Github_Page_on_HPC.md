@@ -5,4 +5,4 @@ starttime: April 13, 2021
 endtime: April 17, 2021
 title: Github Page on HPC
 ---
-A Github page is created to organize the HPC resources. Its style is based on [Jekyll minima](https://github.com/jekyll/minima) template. This project demonstrates the my knowledge of Linux, Git, Jekyll, and HTML/CSS. 
+A Github page is created to organize the HPC resources. Its style is based on [Jekyll minima](https://github.com/jekyll/minima) template. This project demonstrates my knowledge of Linux, Git, Jekyll, and HTML/CSS. 

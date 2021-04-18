@@ -29,8 +29,15 @@ permalink: /HPC/
 - <a href="https://slurm.schedmd.com/tutorials.html" target="_blank">Slurm Tutorials</a>
 - <a href="https://www.rcac.purdue.edu/knowledge/anvil/run" target="_blank">Running Jobs</a>
 
+#### Applications ####
+- <a href="https://www.mathworks.com/products/matlab.html" target="_blank">Matlab</a>
+- <a href="https://www.python.org" target="_blank">Python</a>
+  - <a href="https://doc.python.org/3/" target="_blank">Documentation</a>
+- <a href="https://www.r-project.org" target="_blank">R</a>
+- <a href="https://www.paraview.org" target="_blank">ParaView</a>
+- ...
 
-#### Data Management ###
+#### Data Management ####
 - <a href="https://www.ddn.com" target="_blank">DataDirect Networks (DDN®) Storage</a>
 - <a href="https://www.lustre.org" target="_blank">lustre</a>
 - <a href="https://www.ibm.com/products/spectrum-scale" target="_blank">IBM Spectrum Scale (GPFS)</a>
@@ -45,5 +52,8 @@ permalink: /HPC/
 - <a href="https://git-scm.com/doc" target="_blank">Git Documentation</a>
 - <a href="https://education.github.com/git-cheat-sheet-education.pdf" target="_blank">Git Command List</a>
 
+#### Others ####
+- <a href="https://guides.lib.purdue.edu" target="_blank">Library Guides</a>
+- <a href="https://purr.purdue.edu/publications/datasets" target="_blank">Datasets @PURR</a>
 
 More resources to be added...
