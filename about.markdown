@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img src="/assets/ruyi.jpg">
+[//]:#(<img src="/assets/ruyi.jpg">)  
 
 Hi, my name is Ruyi Li. I'm passionate in computing technology. I like to help others and feel happy to be a supportive agent.   
 

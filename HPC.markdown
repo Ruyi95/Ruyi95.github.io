@@ -10,11 +10,14 @@ permalink: /HPC/
 - <a href="https://wiki.centos.org/FrontPage" target="_blank">CentOS Wiki</a>
 - Purdue ITaP <a href="https://www.rcac.purdue.edu/training/unix101/" target="_blank">Unix 101</a>, <a href="https://www.rcac.purdue.edu/training/unix201/" target="_blank">Unix 201</a>, <a href="https://www.rcac.purdue.edu/training/unix101/unix101_booklet.pdf" target="_blank">Unix 101 booklet</a>
 - <a href="https://swcarpentry.github.io/shell-novice/" target="_blank">Swcarpentry The Unix Shell</a>
-- <a href="https://www.nano-editor.org/dist/latest/nano.html" target="_blank">Nano</a>,
-<a href="https://vimhelp.org" target="_blank">Vim</a>,
-<a href="https://gnu.org/software/emacs/manual/html_node/emacs/index.html" target="_blank">Emacs</a>,
-<a href="https://www.utf8-chartable.de" target="_blank">UTF-8 Encoding Table and Unicode Characters</a>
-
+- <a href="https://www.nano-editor.org/dist/latest/nano.html" target="_blank">Nano</a>, <a href="https://www.nano-editor.org/dist/latest/cheatsheet.html" target="_blank">Overview of Nano Keystrokes</a>
+- <a href="https://vimhelp.org" target="_blank">Vim</a>
+- <a href="https://gnu.org/software/emacs/manual/html_node/emacs/index.html" target="_blank">Emacs</a>
+- <a href="https://en.wikipedia.org/wiki/ASCII" target="_blank">ASCII Table</a>
+- <a href="https://www.utf8-chartable.de" target="_blank">UTF-8 Encoding Table and Unicode Characters</a>
+- <a href="https://en.wikipedia.org/wiki/Regular_expression" target="_blank">Regular Expression</a>
+  - <a href="https://docs.python.org/3/library/re.html" target="_blank">Python Regular Expression</a>
+  - <a href="https://regex101.com" target="_blank">Regrex101</a> 
 
 #### Research Computing Clusters ####
 - <a href="https://www.rcac.purdue.edu/training/clusters101/" target="_blank">Purdue Clusters 101</a>
