@@ -18,6 +18,7 @@ permalink: /HPC/
 - <a href="https://en.wikipedia.org/wiki/Regular_expression" target="_blank">Regular Expression</a>
   - <a href="https://docs.python.org/3/library/re.html" target="_blank">Python Regular Expression</a>
   - <a href="https://regex101.com" target="_blank">Regrex101</a> 
+- <a href="https://www.gnu.org/software/grep/manual/grep.html" target="_blank">grep</a>, <a href="https://en.wikipedia.org/wiki/AWK" target="_blank">awk</a>, <a href="https://www.gnu.org/software/sed/manual/sed.html" target="_blank">sed</a>
 
 #### Research Computing Clusters ####
 - <a href="https://www.rcac.purdue.edu/training/clusters101/" target="_blank">Purdue Clusters 101</a>
@@ -56,7 +57,9 @@ permalink: /HPC/
 - <a href="https://education.github.com/git-cheat-sheet-education.pdf" target="_blank">Git Command List</a>
 
 #### Others ####
-- <a href="https://guides.lib.purdue.edu" target="_blank">Library Guides</a>
+- <a href="https://www.nlm.nih.gov" target="_blank">National Library of Medicine</a>
+- <a href="https://www.ncbi.nlm.nih.gov" target="_blank">National Center for Biotechnology Information</a>
+- <a href="https://guides.lib.purdue.edu" target="_blank">Purdue Library Guides</a>
 - <a href="https://purr.purdue.edu/publications/datasets" target="_blank">Datasets @PURR</a>
 
 More resources to be added...
