@@ -1,0 +1,13 @@
+#!/bin/bash
+
+SEARCH="target"
+
+for file in $(ls *.html)
+do 
+  if grep -q "$SEARCH" $file
+   then 
+    echo "Found \"$SEARCH\" in $file"
+   else
+    echo "No \"$SEARCH\" in $file"
+  fi  
+done

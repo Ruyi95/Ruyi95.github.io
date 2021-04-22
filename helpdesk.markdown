@@ -13,6 +13,10 @@ permalink: /helpdesk/
 - From data collection to high performance computing results
 - ...
 
+#### Shell Script Library ####
+- Slurm Script Templates
+- ...
+
 #### Frequently Asked Questions ####
 1. Question?
 2. ...

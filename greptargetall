@@ -1,0 +1,13 @@
+#!/bin/bash
+
+SEARCH="target"
+
+for file in $(ls)
+do 
+  if grep  "$SEARCH" $file
+   then 
+    echo "Found \"$SEARCH\" in $file"
+   else
+    echo "No \"$SEARCH\" in $file"
+  fi  
+done

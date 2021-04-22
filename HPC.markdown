@@ -10,6 +10,7 @@ permalink: /HPC/
 - <a href="https://wiki.centos.org/FrontPage" target="_blank">CentOS Wiki</a>
 - Purdue ITaP <a href="https://www.rcac.purdue.edu/training/unix101/" target="_blank">Unix 101</a>, <a href="https://www.rcac.purdue.edu/training/unix201/" target="_blank">Unix 201</a>, <a href="https://www.rcac.purdue.edu/training/unix101/unix101_booklet.pdf" target="_blank">Unix 101 booklet</a>
 - <a href="https://swcarpentry.github.io/shell-novice/" target="_blank">Swcarpentry The Unix Shell</a>
+- <a href="https://tldp.org" target="_blank">The Linux Documentation Project</a>
 - <a href="https://www.nano-editor.org/dist/latest/nano.html" target="_blank">Nano</a>, <a href="https://www.nano-editor.org/dist/latest/cheatsheet.html" target="_blank">Overview of Nano Keystrokes</a>
 - <a href="https://vimhelp.org" target="_blank">Vim</a>
 - <a href="https://gnu.org/software/emacs/manual/html_node/emacs/index.html" target="_blank">Emacs</a>
