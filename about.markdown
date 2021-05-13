@@ -12,8 +12,6 @@ Hi, my name is Ruyi Li. I'm passionate in computing technology. I like to help o
 <ul>
 <li>Linux, HTML/CSS, Jekyll, Markdown, Git, C, SQL, Database Design, Salesforce Administration, Hardware and Software Support 
 </li>
-<li>To acquire: HPC Support
-</li>
 </ul> 
 <h4>Education</h4>
 <ul>
@@ -27,5 +25,3 @@ Hi, my name is Ruyi Li. I'm passionate in computing technology. I like to help o
 </li>
 </ul>
 
-<h4>Interests</h4>
-<ul>Zumba</ul>
