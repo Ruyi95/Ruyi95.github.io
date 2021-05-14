@@ -58,6 +58,7 @@ permalink: /HPC/
 - <a href="https://education.github.com/git-cheat-sheet-education.pdf" target="_blank">Git Command List</a>
 
 #### Others ####
+- <a href="https://www.xsede.org" target="_blank">XSEDE</a>
 - <a href="https://www.nlm.nih.gov" target="_blank">National Library of Medicine</a>
 - <a href="https://www.ncbi.nlm.nih.gov" target="_blank">National Center for Biotechnology Information</a>
 - <a href="https://guides.lib.purdue.edu" target="_blank">Purdue Library Guides</a>
