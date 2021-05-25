@@ -40,6 +40,7 @@ permalink: /HPC/
   - <a href="https://doc.python.org/3/" target="_blank">Documentation</a>
   - <a href="https://docs.python.org/3/tutorial/index.html" target="_blank">The Python Tutorial</a>
   - <a href="https://pyviz.org/index.html" target="_blank">PyViz</a>
+  - <a href="https://jakevdp.github.io/WhirlwindTourOfPython/" target="_blank">Whirlwind Tour of Python</a>
 - <a href="https://www.r-project.org" target="_blank">R</a>
 - <a href="https://www.paraview.org" target="_blank">ParaView</a>
 - ...
