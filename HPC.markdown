@@ -38,6 +38,8 @@ permalink: /HPC/
 - <a href="https://www.mathworks.com/products/matlab.html" target="_blank">Matlab</a>
 - <a href="https://www.python.org" target="_blank">Python</a>
   - <a href="https://doc.python.org/3/" target="_blank">Documentation</a>
+  - <a href="https://docs.python.org/3/tutorial/index.html" target="_blank">The Python Tutorial</a>
+  - <a href="https://pyviz.org/index.html" target="_blank">PyViz</a>
 - <a href="https://www.r-project.org" target="_blank">R</a>
 - <a href="https://www.paraview.org" target="_blank">ParaView</a>
 - ...
@@ -59,6 +61,7 @@ permalink: /HPC/
 
 #### Others ####
 - <a href="https://www.xsede.org" target="_blank">XSEDE</a>
+- <a href="https://cvw.cac.cornell.edu/" target="_blank">Cornell Virtual Workshop</a>
 - <a href="https://www.nlm.nih.gov" target="_blank">National Library of Medicine</a>
 - <a href="https://www.ncbi.nlm.nih.gov" target="_blank">National Center for Biotechnology Information</a>
 - <a href="https://guides.lib.purdue.edu" target="_blank">Purdue Library Guides</a>
