@@ -17,8 +17,7 @@ permalink: /HPC/
 - <a href="https://en.wikipedia.org/wiki/ASCII" target="_blank">ASCII Table</a>
 - <a href="https://www.utf8-chartable.de" target="_blank">UTF-8 Encoding Table and Unicode Characters</a>
 - <a href="https://en.wikipedia.org/wiki/Regular_expression" target="_blank">Regular Expression</a>
-  - <a href="https://docs.python.org/3/library/re.html" target="_blank">Python Regular Expression</a>
-  - <a href="https://regex101.com" target="_blank">Regrex101</a> 
+   - <a href="https://regex101.com" target="_blank">Regrex101</a> 
 - <a href="https://www.gnu.org/software/grep/manual/grep.html" target="_blank">grep</a>, <a href="https://en.wikipedia.org/wiki/AWK" target="_blank">awk</a>, <a href="https://www.gnu.org/software/sed/manual/sed.html" target="_blank">sed</a>
 
 #### Research Computing Clusters ####
@@ -40,7 +39,13 @@ permalink: /HPC/
   - <a href="https://doc.python.org/3/" target="_blank">Documentation</a>
   - <a href="https://docs.python.org/3/tutorial/index.html" target="_blank">The Python Tutorial</a>
   - <a href="https://pyviz.org/index.html" target="_blank">PyViz</a>
-  - <a href="https://jakevdp.github.io/WhirlwindTourOfPython/" target="_blank">Whirlwind Tour of Python</a>
+  - <a href="https://www.python.org/dev/preps/pep-0008/" target="_blank">Style Guide for Python Code</a>
+  - Helpful Books
+     - <a href="https://jakevdp.github.io/WhirlwindTourOfPython/" target="_blank">Whirlwind Tour of Python</a>
+     - <a href="https://jakevdp.github.io/PythonDataScienceHandbook/" target="_blank">Python Data Science Handbook</a>
+     - Effective Computation in Physics Field Guide to Research with Python
+     - Fluent Python
+     - ...
 - <a href="https://www.r-project.org" target="_blank">R</a>
 - <a href="https://www.paraview.org" target="_blank">ParaView</a>
 - ...
