@@ -25,6 +25,7 @@ permalink: /HPC/
 
 
 #### MPI ####
+- <a href="https://www.mpi-forum.org" target="_blank">MPI Forum</a>
 - <a href="https://www.open-mpi.org" target="_blank">Open MPI</a>
 
 
@@ -40,6 +41,7 @@ permalink: /HPC/
   - <a href="https://docs.python.org/3/tutorial/index.html" target="_blank">The Python Tutorial</a>
   - <a href="https://pyviz.org/index.html" target="_blank">PyViz</a>
   - <a href="https://www.python.org/dev/preps/pep-0008/" target="_blank">Style Guide for Python Code</a>
+  - <a href="https://pythex.org" target="_blank">pythex</a>
   - Helpful Books
      - <a href="https://jakevdp.github.io/WhirlwindTourOfPython/" target="_blank">Whirlwind Tour of Python</a>
      - <a href="https://jakevdp.github.io/PythonDataScienceHandbook/" target="_blank">Python Data Science Handbook</a>
