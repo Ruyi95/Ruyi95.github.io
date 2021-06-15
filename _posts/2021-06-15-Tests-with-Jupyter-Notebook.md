@@ -1,5 +1,6 @@
 --- 
 layout: post 
+title: Tests with Jupyter Notebook
 --- 
 I am reading **_Python Data Science Handbook_** by Jake VanderPlas 
 recently. This book is shared by the author on his website, and in the form 
