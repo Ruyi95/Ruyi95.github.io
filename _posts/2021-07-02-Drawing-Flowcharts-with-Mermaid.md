@@ -15,8 +15,6 @@ excerpt_separator: <!--more-->
   classDef simpleChart fill:#fff, stroke:#333, stroke-width:2px;
   class A,B,C,D,E,F,G,H simpleChart;
 </div>
-
-<br>
 <br>
 <div class="mermaid">
   graph LR
