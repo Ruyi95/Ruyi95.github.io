@@ -7,24 +7,25 @@ excerpt_separator: <!--more-->
 
 <div class="mermaid">
   graph TD
-  A([Trouble]) --> B(Possible Reason 1) & C(Possible Reason 2)
-  B --> D(Solution 1) & E(Solution 2)
-  C --> F(Solution 1) & G(Solution 2)
-  click D "https://www.google.com" _blank
+  A([Trouble]) -->B{Investigation} -->C(Possible Reason 1) & D(Possible Reason 2)
+  C --> E(Solution 1) & F(Solution 2)
+  D --> G(Solution 1) & H(Solution 2)
   click E "https://www.google.com" _blank
+  click G "https://www.google.com" _blank
   classDef simpleChart fill:#fff, stroke:#333, stroke-width:2px;
-  class A,B,C,D,E,F,G simpleChart;
+  class A,B,C,D,E,F,G,H simpleChart;
 </div>
 
-
+<br>
+<br>
 <div class="mermaid">
   graph LR
-  A([Trouble]) --> B(Possible Reason 1) & C(Possible Reason 2)
+  A([Trouble]) --> F{Investigation} --> B(Possible Reason 1) & C(Possible Reason 2)
   B --> D("Solution #128279;")
   C --> E(Solution)
   click D "https://www.google.com" _blank
   click E "https://www.google.com" _blank
-  classDef simpleChart fill:#0189cf, stroke:#fff, color:#fff;
-  class A,B,C,D,E simpleChart;
+  classDef simpleChart fill:#0085bb, stroke:#fff, color:#fff;
+  class A,B,C,D,E,F simpleChart;
  </div>
 <!--more-->
